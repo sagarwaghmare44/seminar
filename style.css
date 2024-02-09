@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(day2/img.jpg );
+    height: 100px;
+    width:100px;
+}
